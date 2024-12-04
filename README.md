@@ -1,6 +1,8 @@
 # Run environment
 
+```
 docker-compose up
+```
 
 # Test API Endpoint
 
